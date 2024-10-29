@@ -1,0 +1,29 @@
+{
+  "name": "blankslate",
+  "version": "1.0.0",
+  "description": "Adding Tailwind CSS to Blankslate Template. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Africanpride/Blankslate-with-TailwindCSS.git"
+  },
+  "keywords": [
+    "Wordpress",
+    "Blankslate",
+    "Blankslate",
+    "Theme",
+    "Wordpress",
+    "Theme",
+    "with",
+    "TailwindCSS"
+  ],
+  "author": "Pius Opoku-Fofie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Africanpride/Blankslate-with-TailwindCSS/issues"
+  },
+  "homepage": "https://github.com/Africanpride/Blankslate-with-TailwindCSS#readme"
+}
